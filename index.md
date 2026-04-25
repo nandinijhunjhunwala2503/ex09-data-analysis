@@ -6,7 +6,7 @@ My idea was to analyze how study time affects student performance and determine 
 ## Data Analysis
 After analyzing the dataset, I observed a positive relationship between study time and exam scores. Students who studied more hours generally achieved higher marks.
 
-However, the increase in scores was not perfectly linear. After a certain point, additional study time resulted in smaller improvements, suggesting diminishing returns.
+However, the relationship was not perfectly linear. After a certain point, additional study time resulted in smaller improvements, suggesting diminishing returns.
 
 ## Key Findings
 - Students studying less than 2 hours had the lowest scores  
@@ -16,12 +16,13 @@ However, the increase in scores was not perfectly linear. After a certain point,
 ## Recommendation
 Based on the data, I recommend that students aim for consistent study sessions of around 3–5 hours rather than excessively long sessions.
 
-## Future Improvements
-- Include quality of study, not just time  
-- Analyze sleep patterns  
-- Compare different study techniques  
+## Future Work
+Further analysis could include:
+- Study quality instead of just time  
+- Sleep and lifestyle factors  
+- Different study methods  
 
 ## Trade-offs and Limitations
-- Does not account for prior knowledge  
+- Data does not include prior knowledge levels  
 - More study time can lead to burnout  
-- Not all students learn the same way  
+- Results may vary across students  
